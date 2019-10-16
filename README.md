@@ -8,7 +8,7 @@ Released date :  February 2020
 
 Code is in a private repo
 
-Source is comming soon
+Source is coming soon
 
 
 ## Modelisation
