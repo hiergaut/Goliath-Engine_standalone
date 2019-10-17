@@ -11,6 +11,6 @@ Code is in a private repo
 Source is coming soon
 
 
-## Modelisation
+## Modelisation : BSpline
 <!-- [![bspline](bSpline.png)](https://youtu.be/0qHZ_LvAo_0 "wiew on youtube") -->
 [![bspline](bSpline.png)](https://youtu.be/Ms513wlBTy4 "wiew on youtube")
