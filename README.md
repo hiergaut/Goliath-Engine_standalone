@@ -12,4 +12,4 @@ Source is coming soon
 
 
 ## Modelisation
-[![bspline](bspline.png)](https://youtu.be/0qHZ_LvAo_0 "wiew on youtube")
+[![bspline](bSpline.png)](https://youtu.be/0qHZ_LvAo_0 "wiew on youtube")
