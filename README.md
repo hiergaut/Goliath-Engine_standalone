@@ -10,6 +10,8 @@ Code is in a private repo
 
 Source is coming soon
 
+
+
 ## Dependencies
 * Assimp (no submodule, system library)
 * glm (no submodule, system library)
@@ -29,3 +31,6 @@ $ make
 
 ### Additional video
 https://youtu.be/0qHZ_LvAo_0
+
+## Multiple view camera (Sponza)
+sponza.png
