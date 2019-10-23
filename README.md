@@ -33,4 +33,4 @@ $ make
 https://youtu.be/0qHZ_LvAo_0
 
 ## Multiple view camera (Sponza)
-sponza.png
+![sponza](sponza.png)
