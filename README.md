@@ -1,6 +1,4 @@
 # Goliath-Engine_standalone
-(Precompiled library)
-
 My first experimental engine (C++, OpenGL, Qt) for rendering, modelisation and animation
 
 Gui (clone Blender)
@@ -8,7 +6,7 @@ Gui (clone Blender)
 
 Release date :  February 2020
 
-Code is in a private repo
+Code is in a private repo (Precompiled library)
 
 Source is coming soon
 
