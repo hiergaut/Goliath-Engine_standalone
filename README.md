@@ -26,7 +26,8 @@ $ make
 ```
 
 ## Shadow and light
-[![](https://img.youtube.com/vi/gDdghUDYpok/0.jpg)](https://youtu.be/gDdghUDYpok "view on youtube")
+<!-- [![](https://img.youtube.com/vi/gDdghUDYpok/0.jpg)](https://youtu.be/gDdghUDYpok "view on youtube") -->
+[![](shadow.png)](https://youtu.be/gDdghUDYpok "view on youtube")
 <!-- https://youtu.be/gDdghUDYpok -->
 
 ## Frustum culling
