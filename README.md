@@ -25,6 +25,14 @@ $ cmake ..
 $ make
 ```
 
+## Shadow and light
+[![](https://img.youtube.com/vi/gDdghUDYpok/0.jpg)](https://youtu.be/gDdghUDYpok "view on youtube")
+<!-- https://youtu.be/gDdghUDYpok -->
+
+## Frustum culling
+[![](https://img.youtube.com/vi/xsooSpulDy8/0.jpg)](https://youtu.be/xsooSpulDy8 "view on youtube")
+<!-- https://youtu.be/xsooSpulDy8 -->
+
 ## Modelisation : BSpline
 <!-- [![bspline](bSpline.png)](https://youtu.be/0qHZ_LvAo_0 "wiew on youtube") -->
 [![bspline](bSpline.png)](https://youtu.be/Ms513wlBTy4 "wiew on youtube")
