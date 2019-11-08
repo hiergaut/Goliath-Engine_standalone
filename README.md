@@ -6,15 +6,15 @@ Gui (clone Blender)
 
 Release date :  February 2020
 
-Code is in a private repo
+Code is in a private repo (Precompiled library)
 
 Source is coming soon
 
 
 
 ## Dependencies
-* Assimp (no submodule, system library)
-* glm (no submodule, system library)
+* Assimp (no submodule, system library, compiled with latest version on Arch Linux)
+* glm (no submodule, system library, compiled with latest version on Arch Linux)
 
 
 ###  Building on Linux (command line instruction)
