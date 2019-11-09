@@ -9,13 +9,12 @@ Code is in a private repo (Precompiled library)
 
 Source is coming soon
 
----
+___
 
 ## Dependencies
 * Assimp (no submodule, system library, compiled with latest version on Arch Linux)
 * glm (no submodule, system library, compiled with latest version on Arch Linux)
 
----
 
 ##  Building on Linux (command line instruction)
 ```bash
@@ -25,7 +24,6 @@ $ cmake ..
 $ make
 ```
 
----
 
 ## Shadow and light
 <!-- [![](https://img.youtube.com/vi/gDdghUDYpok/0.jpg)](https://youtu.be/gDdghUDYpok "view on youtube") -->
