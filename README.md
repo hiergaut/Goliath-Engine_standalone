@@ -3,27 +3,29 @@ My first experimental engine (C++, OpenGL, Qt) for rendering, modelisation and a
 
 Gui (clone Blender)
 
-
 Release date :  February 2020
 
 Code is in a private repo (Precompiled library)
 
 Source is coming soon
 
-
+---
 
 ## Dependencies
 * Assimp (no submodule, system library, compiled with latest version on Arch Linux)
 * glm (no submodule, system library, compiled with latest version on Arch Linux)
 
+---
 
-###  Building on Linux (command line instruction)
+##  Building on Linux (command line instruction)
 ```bash
 $ mkdir build
 $ cd build
 $ cmake ..
 $ make
 ```
+
+---
 
 ## Shadow and light
 <!-- [![](https://img.youtube.com/vi/gDdghUDYpok/0.jpg)](https://youtu.be/gDdghUDYpok "view on youtube") -->
