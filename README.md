@@ -15,6 +15,7 @@ Source is coming soon
 * Assimp (no submodule, system library, compiled with latest version on Arch Linux)
 * glm (no submodule, system library, compiled with latest version on Arch Linux)
 
+---
 
 ##  Building on Linux (command line instruction)
 ```bash
@@ -24,22 +25,31 @@ $ cmake ..
 $ make
 ```
 
+---
 
-## Shadow and light
+## Rendering
+
+### Shadow and light
 <!-- [![](https://img.youtube.com/vi/gDdghUDYpok/0.jpg)](https://youtu.be/gDdghUDYpok "view on youtube") -->
 [![](shadow.png)](https://youtu.be/gDdghUDYpok "view on youtube")
 <!-- https://youtu.be/gDdghUDYpok -->
 
-## Frustum culling
+### Frustum culling
 [![](https://img.youtube.com/vi/xsooSpulDy8/0.jpg)](https://youtu.be/xsooSpulDy8 "view on youtube")
 <!-- https://youtu.be/xsooSpulDy8 -->
 
-## Modelisation : BSpline
+---
+
+## Modelisation
+### BSpline
 <!-- [![bspline](bSpline.png)](https://youtu.be/0qHZ_LvAo_0 "wiew on youtube") -->
 [![bspline](bSpline.png)](https://youtu.be/Ms513wlBTy4 "wiew on youtube")
 
 ### Additional video
 https://youtu.be/0qHZ_LvAo_0
 
-## Multiple view camera (Sponza)
+---
+
+## Bonus
+### Multiple view camera (Sponza)
 ![sponza](sponza.png)
