@@ -24,11 +24,9 @@ $ cd build
 $ cmake ..
 $ make
 ```
-
 ---
 
 ## Rendering
-
 ### Shadow and light
 <!-- [![](https://img.youtube.com/vi/gDdghUDYpok/0.jpg)](https://youtu.be/gDdghUDYpok "view on youtube") -->
 [![](shadow.png)](https://youtu.be/gDdghUDYpok "view on youtube")
@@ -47,6 +45,10 @@ $ make
 
 ### Additional video
 https://youtu.be/0qHZ_LvAo_0
+
+### Nurbs (BSpline with weights)
+example of perfect circle :
+![nurbs](nurbs.png)
 
 ---
 
