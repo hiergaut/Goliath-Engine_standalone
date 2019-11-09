@@ -9,7 +9,7 @@ Code is in a private repo (Precompiled library)
 
 Source is coming soon
 
-___
+---
 
 ## Dependencies
 * Assimp (no submodule, system library, compiled with latest version on Arch Linux)
