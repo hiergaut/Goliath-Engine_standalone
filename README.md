@@ -43,9 +43,7 @@ $ make
 <!-- [![bspline](bSpline.png)](https://youtu.be/0qHZ_LvAo_0 "wiew on youtube") -->
 [![bspline](bSpline.png)](https://youtu.be/Ms513wlBTy4 "wiew on youtube")
 
-additional video :
-
-https://youtu.be/0qHZ_LvAo_0
+additional video : https://youtu.be/0qHZ_LvAo_0
 
 ### Nurbs (BSpline with weights)
 example of perfect circle :
