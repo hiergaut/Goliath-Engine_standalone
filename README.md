@@ -50,6 +50,10 @@ example of perfect circle :
 
 ![nurbs](nurbs.png)
 
+### PN Triangles Tessellation
+[![](https://img.youtube.com/vi/Ck42FhEDYWU/0.jpg)](https://youtu.be/Ck42FhEDYWU "view on youtube")
+
+
 ---
 
 ## Bonus
