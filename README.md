@@ -36,6 +36,9 @@ $ make
 [![](https://img.youtube.com/vi/xsooSpulDy8/0.jpg)](https://youtu.be/xsooSpulDy8 "view on youtube")
 <!-- https://youtu.be/xsooSpulDy8 -->
 
+### Real time shadow point light map calculation
+[![](https://img.youtube.com/vi/IASGQYvVZYA/0.jpg)](https://youtu.be/IASGQYvVZYA "view on youtube")
+
 ---
 
 ## Modelisation
