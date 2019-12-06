@@ -56,6 +56,13 @@ example of perfect circle :
 ### PN Triangles Tessellation
 [![](pnTriangles.png)](https://youtu.be/Ck42FhEDYWU "view on youtube")
 
+## Animation
+### Editor
+[![](https://img.youtube.com/vi/z9rkk2G78Mk/0.jpg)](https://youtu.be/z9rkk2G78Mk "view on youtube")
+
+### LBS and DQS
+[![](https://img.youtube.com/vi/A9o_65bn68Y/0.jpg)](https://youtu.be/A9o_65bn68Y "view on youtube")
+
 
 ---
 
